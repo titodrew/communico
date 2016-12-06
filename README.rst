@@ -12,6 +12,7 @@ Quick start
 
     pip install communico
 
+
 2. Add "communico" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
