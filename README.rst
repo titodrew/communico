@@ -10,7 +10,7 @@ Quick start
 
 1. Install "communico" from PyPI:
 
-    `pip install django-admin-honeypot`
+    pip install communico
 
 2. Add "communico" to your INSTALLED_APPS setting like this::
 
